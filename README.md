@@ -24,6 +24,6 @@ Para cada link encontrado, o código extrai o título do artigo (texto dentro do
 Após isso, o código usa o módulo smtplib para conectar ao servidor de e-mail do remetente, fazer login com suas credenciais, preparar a mensagem (com o conteúdo da variável output) e enviar a mensagem para o e-mail destinatário. Por fim, ele fecha a conexão com o servidor de e-mail.
 
 # Projeto final
-O projeto final é receber um email com o título e link correspondente a cada matéria.
+Receber um email com o título e link correspondente a cada matéria.
 
 
