@@ -11,4 +11,5 @@ No entanto, é importante lembrar que a análise de dados e o machine learning s
 Em resumo, people analytics é uma área em rápido crescimento que permite que as empresas entendam e melhorem o desempenho e a satisfação dos funcionários. A análise de dados e o machine learning são ferramentas valiosas para fornecer insights e automatizar tarefas, mas é importante ter uma equipe especializada para garantir que os dados sejam coletados e analisados ​​de maneira adequada e que as informações sejam aplicadas eficazmente.
 Objetivo do projeto
 
+# Objetivo
 Construir uma automatização em python que colete informações do site https://www.myhrfuture.com/blog e as encaminhe para o meu e-mail, com os artigos relacionados ao tema people analytics.
