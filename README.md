@@ -26,3 +26,4 @@ Após isso, o código usa o módulo smtplib para conectar ao servidor de e-mail 
 # Projeto final
 O projeto final é receber um email com o título e link correspondente a cada matéria.
 
+
