@@ -15,3 +15,14 @@ Objetivo do projeto
 
 # Objetivo
 Construir uma automatização em python que colete informações do site https://www.myhrfuture.com/blog e as encaminhe para o meu e-mail, com os artigos relacionados ao tema people analytics.
+
+# Explicando o código 
+Este código cria uma automatização para coletar dados do site "https://www.myhrfuture.com/blog" e enviá-los por e-mail. Ele faz uso de duas bibliotecas externas: requests e BeautifulSoup.
+A biblioteca requests é usada para fazer a requisição HTTP para o site especificado. A resposta dessa requisição é então passada para a biblioteca BeautifulSoup, que é usada para extrair informações específicas da página HTML.
+O código começa fazendo uma requisição para a página "https://www.myhrfuture.com/blog" e passando o conteúdo da resposta para o objeto BeautifulSoup. Ele então usa o método "find_all" para encontrar todos os elementos "a" com a classe "BlogList-item-title" na página. Esses elementos representam links para artigos no blog.
+Para cada link encontrado, o código extrai o título do artigo (texto dentro do elemento "a") e o endereço do link (atributo "href"). Ele então adiciona essas informações a uma lista (output) e junta todas as informações em uma string.
+Após isso, o código usa o módulo smtplib para conectar ao servidor de e-mail do remetente, fazer login com suas credenciais, preparar a mensagem (com o conteúdo da variável output) e enviar a mensagem para o e-mail destinatário. Por fim, ele fecha a conexão com o servidor de e-mail.
+
+# Projeto final
+O projeto final é receber um email com o título e link correspondente a cada matéria.
+
