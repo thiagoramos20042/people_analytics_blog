@@ -29,5 +29,7 @@ Após isso, o código usa o módulo smtplib para conectar ao servidor de e-mail 
 
 # Projeto final
 Receber um email com o título e link correspondente a cada matéria.
+![alt text](https://github.com/thiagoramos20042/people_analytics_blog/blob/main/Captura%20de%20tela%202023-01-27%20143530.png)
+
 
 
