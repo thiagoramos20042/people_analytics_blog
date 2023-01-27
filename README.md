@@ -1,3 +1,5 @@
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52Sh9RSf6v2hOEAR5gg_hFMDpRE0Y2Y8EmA&usqp=CAU)
+
 # Como o People Analytics e o Machine Learning estão transformando a gestão de pessoas
 People analytics é o uso de dados e análises para entender e melhorar o desempenho e o envolvimento dos funcionários. Isso inclui coletar e analisar dados sobre as habilidades, o desempenho, a satisfação e a rotatividade dos funcionários, bem como dados de recrutamento, treinamento e benefícios. A análise de pessoas permite que as empresas tomem decisões baseadas em dados para melhorar o desempenho e a eficiência, retenção de talentos e satisfação dos funcionários.
 Análise de dados é o processo de coletar, limpar, transformar e analisar dados para obter insights e tomar decisões informadas. É uma habilidade crítica em um mundo cada vez mais voltado para dados e é usado em uma variedade de setores, incluindo finanças, saúde, varejo e tecnologia.
